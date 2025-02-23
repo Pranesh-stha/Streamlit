@@ -104,5 +104,5 @@ homepage_html = """
 </div>
 """
 
-# Render the HTML content
+
 st.markdown(homepage_html, unsafe_allow_html=True)
