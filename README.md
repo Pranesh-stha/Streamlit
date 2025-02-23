@@ -1,2 +1,0 @@
-# Streamlit
-for practicing streamlit
